@@ -1,6 +1,3 @@
-import os
-os.system('pip install requests')
-os.system('pip install streamlit==1.26.0')
 import streamlit as st
 import requests
 import json
